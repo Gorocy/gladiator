@@ -1,0 +1,4 @@
+maxWorldCol = 160
+maxWorldRow = 90
+
+SuperObject
